@@ -1,4 +1,4 @@
-# Bitcoin Life Improvement Proposals (BLIP)
+# Bitcoin Life Improvement Proposal (BLIP)
 
 A simple checklist to improve your Bitcoin life. Pull requests are welcomed.
 
