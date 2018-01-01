@@ -28,4 +28,4 @@ Every time when you want to post, comment, upvote or like something go through t
 
 7. **Don't tell anyone how much Bitcoin you have.**
 
-8. **Don't ever expose how you value money.** For example: "I took my girlfriend out yesterday for her birthday and paid $50." "Lol, mate $50 is nothing." You may say this, but criminals and tax authorities only hear: "I want to be your next target."
+8. **Don't ever expose how you value money.** For example: "I took my girlfriend out yesterday for her birthday and paid $50." "Lol, mate $50 is nothing." You may say this, but criminals, including back hat hackers and tax authorities only hear this: "I want to be your next target."
